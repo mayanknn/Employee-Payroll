@@ -1,0 +1,3 @@
+The software is developed in Python utilizing the Tkinter library for frontend design. MySQL serves as the backend database. Additionally, an Admin panel and login system, which includes a forget password feature using an OTP system for email verification, have been implemented for administrative purposes. Through the Admin panel, CRUD (Create, Read, Update, Delete) operations can be performed on employee data.
+
+Moreover, the software enables the calculation of salaries by incorporating various allowances such as DA (Dearness Allowance), HRA (House Rent Allowance), and generating a payslip, which is then emailed to the employee's email address.
